@@ -1,0 +1,10 @@
+GET http://localhost:8080/api/snake/default
+
+###
+
+POST http://localhost:8080/api/snake/default/move
+Content-Type: application/json
+
+< ./snake-move.json
+
+###
