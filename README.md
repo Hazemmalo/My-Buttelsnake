@@ -1,2 +1,2 @@
-# My-Buttelsnake
-Buttelsnake opdracht
+# My-Battlesnake
+Battlesnake opdracht
